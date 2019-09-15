@@ -5,8 +5,9 @@
 bin/
 .idea/
 .gradle/
-gradle/
 build/
 gradlew*
 /captures
 .externalNativeBuild
+app/build/
+pixelbridge*
